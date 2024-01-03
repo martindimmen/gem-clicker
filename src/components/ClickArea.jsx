@@ -1,7 +1,7 @@
 import React from "react";
 
-function ClickArea() {
-  return;
-}
+function ClickArea(
+    
+) {}
 
 export default ClickArea;
